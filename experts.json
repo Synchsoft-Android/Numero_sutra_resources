@@ -3,6 +3,7 @@
     {
       "id": "1",
       "name":"Pankaj Gupta",
+      "profile_pic":"https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Pankaj%20Gupta",
       "email":"numerovastusutra@gmail.com",
       "specialisation": "Numerology",
       "language": ["English","Hindi"],
@@ -13,6 +14,7 @@
     {
       "id": "2",
       "name":"Pankaj Gupta",
+      "profile_pic":"https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Pankaj%20Gupta",
       "email":"numerovastusutra@gmail.com",
       "specialisation": "Numerology",
       "language": ["English","Hindi"],
