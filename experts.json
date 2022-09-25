@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name":"Pankaj Gupta",
+      "email":"numerovastusutra@gmail.com",
+      "specialisation": "Numerology",
+      "language": ["English","Hindi"],
+      "experience": "2 years",
+      "charges": "251",
+      "offers": "Free"
+    },
+    {
+      "id": "2",
+      "name":"Pankaj Gupta",
+      "email":"numerovastusutra@gmail.com",
+      "specialisation": "Numerology",
+      "language": ["English","Hindi"],
+      "experience": "2 years",
+      "charges": "251",
+      "offers": "Free"
+    }
+  ]
+}
