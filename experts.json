@@ -3,24 +3,16 @@
     {
       "id": "1",
       "name":"Pankaj Gupta",
-      "profile_pic":"https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Pankaj%20Gupta",
+      "profile_pic":"https://github.com/Synchsoft-Android/Numero_sutra_resources/blob/b29579e2651418954e3ef4c25d7eb692c24e3b97/IMG_2375.JPG",
       "email":"numerovastusutra@gmail.com",
       "specialisation": "Numerology",
       "language": ["English","Hindi"],
       "experience": "2 years",
       "charges": "251",
-      "offers": "Free"
-    },
-    {
-      "id": "2",
-      "name":"Pankaj Gupta",
-      "profile_pic":"https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Pankaj%20Gupta",
-      "email":"numerovastusutra@gmail.com",
-      "specialisation": "Numerology",
-      "language": ["English","Hindi"],
-      "experience": "2 years",
-      "charges": "251",
-      "offers": "Free"
+      "offers": "Free",
+      "description":"",
+      "bio":"",
+      "about_me":""
     }
   ]
 }
